@@ -1,4 +1,4 @@
-The Rainbow and The Unicorn and The Pony and The Fairies
+The Rainbow and The Unicorn and The Pony and The Fairies and The Mermaids
 Yellow 
 Purple
 Blue
@@ -13,5 +13,6 @@ These are the colors of the rainbow.
 And the unicorn.
 Pony
 Fairies
+Mermaids
 
 
